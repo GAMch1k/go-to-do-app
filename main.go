@@ -9,7 +9,7 @@ import (
 	"fyne.io/fyne/v2/data/binding"
 	"fyne.io/fyne/v2/widget"
 
-	"gamch1k.org/todo-win/api"
+	"gamch1k.org/todo_app/api"
 )
 
 func main() {

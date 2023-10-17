@@ -1,4 +1,4 @@
-module gamch1k.org/todo-win
+module gamch1k.org/todo_app
 
 go 1.21.1
 
